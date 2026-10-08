@@ -4,7 +4,7 @@ import Button from './components/Button'
 const App = () => {
   return (
     <div>
-      <Button >Click</Button>
+      <Button >Muhammad</Button>
     </div>
   )
 }
