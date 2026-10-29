@@ -1,4 +1,4 @@
-const Button = ({children}) => {
+const Button = ({children}:{children:any}) => {
 console.log("re-render");
 
   return (

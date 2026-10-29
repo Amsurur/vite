@@ -1,6 +1,6 @@
-import React from 'react'
+// import React from 'react'
 
-const Card = (props) => {
+const Card = (props:{name:string,image:string}) => {
   const {name,image} = props
   return (
     <div>
